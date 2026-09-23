@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
