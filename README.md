@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 ## Linked List
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
