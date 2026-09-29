@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 ## Design
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
