@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
@@ -139,4 +140,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
