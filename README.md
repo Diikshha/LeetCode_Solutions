@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
