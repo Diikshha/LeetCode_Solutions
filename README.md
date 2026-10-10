@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -208,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
