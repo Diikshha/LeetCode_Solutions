@@ -5,19 +5,19 @@ class Solution {
         }
         StringBuilder[] rows = new StringBuilder[numRows];
         for(int i=0;i<numRows;i++){
-            rows[i] = new StringBuilder();
+            rows[i]=new StringBuilder();
         }
-        int currentRow=0;
+        int currentRows=0;
         int direction=1;
         for(int i=0;i<s.length();i++){
-            rows[currentRow].append(s.charAt(i));
-            if(currentRow==0){
+            rows[currentRows].append(s.charAt(i));
+            if(currentRows==0){
                 direction=1;
             }
-            else if(currentRow == numRows-1){
+            else if(currentRows==numRows-1){
                 direction=-1;
             }
-            currentRow+=direction;
+            currentRows+=direction;
         }
         StringBuilder result = new StringBuilder();
         for(int i=0;i<numRows;i++){
