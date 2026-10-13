@@ -7,9 +7,9 @@ class Solution {
         int n=nums2.length;
         int left=0;
         int right=m;
-        while(left<=right){
+        while(left<right){
             int cut1 = left+(right-left)/2;
-            int cut2 = (m+n+1)/2 -cut1;
+            int cut2 = (m+n+1)/2 - cut1;
             int l1,l2,r1,r2;
             if(cut1==0){
                 l1 = Integer.MIN_VALUE;
