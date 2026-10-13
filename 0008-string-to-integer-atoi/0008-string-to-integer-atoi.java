@@ -3,8 +3,8 @@ class Solution {
         if(s==null || s.length()==0){
             return 0;
         }
-        int INT_MAX = Integer.MAX_VALUE;
         int INT_MIN = Integer.MIN_VALUE;
+        int INT_MAX = Integer.MAX_VALUE;
         int i=0;
         int n=s.length();
         while(i<n && s.charAt(i)==' '){
@@ -25,7 +25,7 @@ class Solution {
         while(i<n && Character.isDigit(s.charAt(i))){
             int digit = s.charAt(i)-'0';
             res=res*10+digit;
-            if(sign * res<=INT_MIN){
+            if(sign*res<=INT_MIN){
                 return INT_MIN;
             }
             if(sign*res>=INT_MAX){
@@ -33,6 +33,6 @@ class Solution {
             }
             i++;
         }
-        return (int) (res*sign);
+        return (int) (sign*res);
     }
 }
