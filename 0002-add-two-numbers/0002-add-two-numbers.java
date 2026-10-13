@@ -24,8 +24,8 @@ class Solution {
                 l2=l2.next;
             }
             carry=sum/10;
-            int digit = sum%10;
-            current.next = new ListNode(digit);
+            current.next  = new ListNode(sum%10);
+            
             current=current.next;
         }
         return dummy.next;
