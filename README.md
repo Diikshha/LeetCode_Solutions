@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
