@@ -7,17 +7,17 @@ class Solution {
         for(int i=0;i<numRows;i++){
             rows[i]=new StringBuilder();
         }
-        int currentRows=0;
+        int currentRow=0;
         int direction=1;
         for(int i=0;i<s.length();i++){
-            rows[currentRows].append(s.charAt(i));
-            if(currentRows==0){
+            rows[currentRow].append(s.charAt(i));
+            if(currentRow==0){
                 direction=1;
             }
-            else if(currentRows==numRows-1){
+            else if(currentRow==numRows-1){
                 direction=-1;
             }
-            currentRows+=direction;
+            currentRow+=direction;
         }
         StringBuilder result = new StringBuilder();
         for(int i=0;i<numRows;i++){
