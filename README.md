@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## String
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
