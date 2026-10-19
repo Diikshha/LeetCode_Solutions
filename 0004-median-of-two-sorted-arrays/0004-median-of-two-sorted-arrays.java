@@ -12,7 +12,7 @@ class Solution {
             int cut2 = (m+n+1)/2 - cut1;
             int l1,l2,r1,r2;
             if(cut1==0){
-                l1= Integer.MIN_VALUE;
+                l1 = Integer.MIN_VALUE;
             }
             else{
                 l1 = nums1[cut1-1];
@@ -36,7 +36,7 @@ class Solution {
                 r2 = nums2[cut2];
             }
             if(l1<=r2 && l2<=r1){
-                if((m+n)%2 ==1){
+                if((m+n)%2==1){
                     return Math.max(l1,l2);
                 }
                 return ((double) Math.max(l1,l2)+Math.min(r1,r2))/2.0;
@@ -45,7 +45,7 @@ class Solution {
                 right=cut1-1;
             }
             else{
-                left=cut1+1;
+                left = cut1+1;
             }
         }
         return 0.0;
