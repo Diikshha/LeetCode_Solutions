@@ -5,7 +5,7 @@ class Solution {
             return result;
         }
         String[] mapping = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-        backtrack(digits, 0, "", result, mapping);
+        backtrack(digits,0,"",result,mapping);
         return result;
     }
     private void backtrack(String digits, int index, String current, List<String> result, String[] mapping){
