@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
+| [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Stack
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Combinatorics
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Memoization
 |  |
