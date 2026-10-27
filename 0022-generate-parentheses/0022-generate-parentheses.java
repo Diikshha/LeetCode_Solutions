@@ -11,7 +11,7 @@ class Solution {
         }
         if(open<n){
             current.append('(');
-            backtrack(result, current, open+1, close, n);
+            backtrack(result, current, open+1,close,n);
             current.deleteCharAt(current.length()-1);
         }
         if(close<open){
