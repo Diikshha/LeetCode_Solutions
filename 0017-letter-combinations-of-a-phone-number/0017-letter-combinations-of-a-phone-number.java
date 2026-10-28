@@ -4,7 +4,7 @@ class Solution {
         if(digits.length()==0){
             return result;
         }
-        String[] mapping = {"", "", "abc", "def", "ghi","jkl", "mno", "pqrs", "tuv", "wxyz"};
+        String[] mapping = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         backtrack(digits, 0, "", result, mapping);
         return result;
     }
