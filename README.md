@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0622-design-circular-queue](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
+| [0860-lemonade-change](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
