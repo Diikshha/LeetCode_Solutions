@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
