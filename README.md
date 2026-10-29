@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0525-contiguous-array](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Combinatorics
 |  |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
