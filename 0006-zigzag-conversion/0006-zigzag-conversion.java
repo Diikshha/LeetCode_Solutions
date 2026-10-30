@@ -5,7 +5,7 @@ class Solution {
         }
         StringBuilder[] rows = new StringBuilder[numRows];
         for(int i=0;i<numRows;i++){
-            rows[i]=new StringBuilder();
+            rows[i] = new StringBuilder();
         }
         int currentRows=0;
         int direction=1;
