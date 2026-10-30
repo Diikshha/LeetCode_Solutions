@@ -3,10 +3,10 @@ class Solution {
         if(nums1.length>nums2.length){
             return findMedianSortedArrays(nums2,nums1);
         }
-        int m=nums1.length;
-        int n=nums2.length;
+        int m = nums1.length;
+        int n = nums2.length;
         int left=0;
-        int right=m;
+        int right = m;
         while(left<=right){
             int cut1 = left+(right-left)/2;
             int cut2 = (m+n+1)/2 - cut1;
