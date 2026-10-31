@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0917-reverse-only-letters](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [3794-reverse-string-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0917-reverse-only-letters](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
+| [3794-reverse-string-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
 | ------- |
