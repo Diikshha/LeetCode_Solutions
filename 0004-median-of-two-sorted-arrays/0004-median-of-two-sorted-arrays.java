@@ -4,15 +4,15 @@ class Solution {
             return findMedianSortedArrays(nums2,nums1);
         }
         int m = nums1.length;
-        int n = nums2.length;
+        int n=nums2.length;
         int left=0;
-        int right = m;
+        int right=m;
         while(left<=right){
             int cut1 = left+(right-left)/2;
             int cut2 = (m+n+1)/2 - cut1;
             int l1,l2,r1,r2;
             if(cut1==0){
-                l1 = Integer.MIN_VALUE;
+                l1=Integer.MIN_VALUE;
             }
             else{
                 l1 = nums1[cut1-1];
@@ -24,7 +24,7 @@ class Solution {
                 r1 = nums1[cut1];
             }
             if(cut2==0){
-                l2 = Integer.MIN_VALUE;
+                l2=Integer.MIN_VALUE;
             }
             else{
                 l2 = nums2[cut2-1];
@@ -35,7 +35,7 @@ class Solution {
             else{
                 r2 = nums2[cut2];
             }
-            if(l1<=r2 && l2<=r1){
+            if(l2<=r1 && l1<=r2){
                 if((m+n)%2==1){
                     return Math.max(l1,l2);
                 }
@@ -43,7 +43,7 @@ class Solution {
             }
             else if(l1>r2){
                 right=cut1-1;
-            }
+            } 
             else{
                 left=cut1+1;
             }
