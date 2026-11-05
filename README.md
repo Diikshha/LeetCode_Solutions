@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0622-design-circular-queue) |
 | [0860-lemonade-change](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0917-reverse-only-letters](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
