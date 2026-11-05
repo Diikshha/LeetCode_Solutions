@@ -5,7 +5,7 @@ class Solution {
             return result;
         }
         String[] mapping = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        backtrack(digits, 0,"", mapping, result);
+        backtrack(digits, 0, "", mapping, result);
         return result;
     }
     private void backtrack(String digits, int index, String current, String[] mapping, List<String> result){
@@ -16,7 +16,7 @@ class Solution {
         String letters = mapping[digits.charAt(index)-'0'];
         for(int i=0;i<letters.length();i++){
             char ch = letters.charAt(i);
-            backtrack(digits, index+1, current+ch, mapping , result);
+            backtrack(digits, index+1, current+ch, mapping, result);
         }
     }
 }
