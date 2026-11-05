@@ -26,7 +26,7 @@ class Solution {
         }
         int left = Math.max(0, maxPath(node.left, maxValue));
         int right = Math.max(0, maxPath(node.right, maxValue));
-        maxValue[0] = Math.max(maxValue[0], left+right+node.val);
+        maxValue[0] = Math.max(left+right+node.val, maxValue[0]);
         return Math.max(left, right)+node.val;
     }
 }
