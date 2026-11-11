@@ -12,23 +12,23 @@ class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode dummy = new ListNode(0);
         dummy.next=head;
-        ListNode groupPrev = dummy;
+        ListNode groupPrev=dummy;
         while(true){
-            ListNode knode = findKNode(groupPrev,k);
+            ListNode knode = findKNode(groupPrev, k);
             if(knode==null){
                 break;
             }
-            ListNode groupNext = knode.next;
-            ListNode prev = groupNext;
+            ListNode groupNext=knode.next;
+            ListNode prev=groupNext;
             ListNode curr = groupPrev.next;
             while(curr!=groupNext){
                 ListNode temp = curr.next;
-                curr.next =prev;
-                prev = curr;
+                curr.next = prev;
+                prev=curr;
                 curr=temp;
             }
             ListNode temp = groupPrev.next;
-            groupPrev.next=knode;
+            groupPrev.next = knode;
             groupPrev=temp;
         }
         return dummy.next;
