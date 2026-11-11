@@ -9,48 +9,35 @@
  * }
  */
 class Solution {
-    private ListNode reverse(ListNode head){
-        ListNode temp=head;
-        ListNode prev=null;
-        while(temp!=null){
-            ListNode front=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=front;
-        }
-        return prev;
-    }
-    private ListNode findKthNode(ListNode temp, int k){
-        k-=1;
-        while(temp!=null && k>0){
-            k--;
-            temp=temp.next;
-        }
-        return temp;
-    }
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp=head;
-        ListNode prev=null;
-        while(temp!=null){
-            ListNode knode = findKthNode(temp, k);
+        ListNode dummy = new ListNode(0);
+        dummy.next=head;
+        ListNode groupPrev = dummy;
+        while(true){
+            ListNode knode = findKNode(groupPrev,k);
             if(knode==null){
-                if(prev!=null){
-                    prev.next=temp;
-                    break;
-                }
+                break;
             }
-            ListNode nextNode = knode.next;
-            knode.next=null;
-            reverse(temp);
-            if(temp==head){
-                head=knode;
+            ListNode groupNext = knode.next;
+            ListNode prev = groupNext;
+            ListNode curr = groupPrev.next;
+            while(curr!=groupNext){
+                ListNode temp = curr.next;
+                curr.next =prev;
+                prev = curr;
+                curr=temp;
             }
-            else{
-                prev.next=knode;
-            }
-            prev=temp;
-            temp=nextNode;
+            ListNode temp = groupPrev.next;
+            groupPrev.next=knode;
+            groupPrev=temp;
         }
-        return head;
+        return dummy.next;
+    }
+    private ListNode findKNode(ListNode curr, int k){
+        while(curr!=null && k>0){
+            curr=curr.next;
+            k--;
+        }
+        return curr;
     }
 }
