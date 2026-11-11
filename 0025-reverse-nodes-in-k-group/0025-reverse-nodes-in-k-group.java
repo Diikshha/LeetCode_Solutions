@@ -18,18 +18,18 @@ class Solution {
             if(knode==null){
                 break;
             }
-            ListNode groupNext=knode.next;
+            ListNode groupNext = knode.next;
             ListNode prev=groupNext;
             ListNode curr = groupPrev.next;
             while(curr!=groupNext){
                 ListNode temp = curr.next;
-                curr.next = prev;
+                curr.next=prev;
                 prev=curr;
                 curr=temp;
             }
             ListNode temp = groupPrev.next;
             groupPrev.next = knode;
-            groupPrev=temp;
+            groupPrev = temp;
         }
         return dummy.next;
     }
