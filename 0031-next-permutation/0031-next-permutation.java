@@ -17,6 +17,7 @@ class Solution {
                 int temp = nums[i];
                 nums[i]=nums[index];
                 nums[index]=temp;
+                break;
             }
         }
         reverse(nums,index+1,n-1);
