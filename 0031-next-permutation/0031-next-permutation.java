@@ -14,17 +14,16 @@ class Solution {
         }
         for(int i=n-1;i>index;i--){
             if(nums[i]>nums[index]){
-                int temp=nums[i];
+                int temp = nums[i];
                 nums[i]=nums[index];
                 nums[index]=temp;
-                break;
             }
         }
-        reverse(nums, index+1, n-1);
+        reverse(nums,index+1,n-1);
     }
     private void reverse(int[] nums, int left, int right){
         while(left<right){
-            int temp=nums[left];
+            int temp = nums[left];
             nums[left]=nums[right];
             nums[right]=temp;
             left++;
