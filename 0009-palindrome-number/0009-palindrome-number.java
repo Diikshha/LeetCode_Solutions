@@ -5,15 +5,15 @@ class Solution {
         }
         int reverse=0;
         int temp=x;
-        while(temp!=0){
-            int digit = temp%10;
-            if(reverse > Integer.MAX_VALUE || reverse< Integer.MIN_VALUE){
+        while(x!=0){
+            int digit = x%10;
+            if(reverse>Integer.MAX_VALUE || reverse<Integer.MIN_VALUE){
                 return false;
             }
-            reverse = reverse*10+digit;
-            temp=temp/10;
+            reverse=reverse*10+digit;
+            x=x/10;
         }
-        if(reverse==x){
+        if(reverse==temp){
             return true;
         }
         else{
