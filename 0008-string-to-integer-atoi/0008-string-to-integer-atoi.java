@@ -28,7 +28,7 @@ class Solution {
             if(sign*res<=INT_MIN){
                 return INT_MIN;
             }
-            if(sign*res>=INT_MAX){
+            else if(sign*res>=INT_MAX){
                 return INT_MAX;
             }
             i++;
