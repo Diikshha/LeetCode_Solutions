@@ -6,7 +6,7 @@ class Solution {
             if(reverse>Integer.MAX_VALUE/10 || reverse<Integer.MIN_VALUE/10){
                 return 0;
             }
-            reverse = reverse*10+digit;
+            reverse=reverse*10+digit;
             x=x/10;
         }
         return reverse;
