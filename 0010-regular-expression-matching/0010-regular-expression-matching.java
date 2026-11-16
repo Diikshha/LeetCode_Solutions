@@ -12,5 +12,4 @@ class Solution {
         }
         return firstMatch && solve(s,p,i+1,j+1);
     }
-
 }
