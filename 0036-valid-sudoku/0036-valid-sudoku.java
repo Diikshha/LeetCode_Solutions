@@ -7,7 +7,7 @@ class Solution {
                 if(num=='.'){
                     continue;
                 }
-                String row = num +" in row "+i;
+                String row = num+" in row "+i;
                 String col = num+" in col "+j;
                 String box = num+" in box "+(i/3)+"-"+(j/3);
                 if((!set.add(row)) || (!set.add(col)) || (!set.add(box))){
