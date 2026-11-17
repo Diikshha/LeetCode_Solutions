@@ -4,9 +4,9 @@ class Solution {
             return 0;
         }
         int INT_MIN = Integer.MIN_VALUE;
-        int INT_MAX= Integer.MAX_VALUE;
+        int INT_MAX = Integer.MAX_VALUE;
         int i=0;
-        int n=s.length();
+        int n = s.length();
         while(i<n && s.charAt(i)==' '){
             i++;
         }
@@ -25,14 +25,14 @@ class Solution {
         while(i<n && Character.isDigit(s.charAt(i))){
             int digit = s.charAt(i)-'0';
             res=res*10+digit;
-            if(sign*res<=INT_MIN){
-                return INT_MIN;
-            }
-            else if(sign*res>=INT_MAX){
+            if((sign*res)>=INT_MAX){
                 return INT_MAX;
+            }
+            else if((sign*res)<=INT_MIN){
+                return INT_MIN;
             }
             i++;
         }
         return (int) (sign*res);
-    }
+    }   
 }
