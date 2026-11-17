@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
