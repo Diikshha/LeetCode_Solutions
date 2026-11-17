@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
