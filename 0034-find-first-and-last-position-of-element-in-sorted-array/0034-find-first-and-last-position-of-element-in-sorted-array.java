@@ -7,22 +7,22 @@ class Solution {
         ans[1]=end;
         return ans;
     }
-    private int Search(int[] nums, int target, boolean findSearch){
+    private int Search(int[] nums, int target, boolean find){
         int left=0;
-        int right= nums.length-1;
+        int right=nums.length-1;
         int ans=-1;
         while(left<=right){
-            int mid= left+(right-left)/2;
+            int mid = left+(right-left)/2;
             if(nums[mid]==target){
                 ans=mid;
-                if(findSearch){
+                if(find){
                     right=mid-1;
                 }
                 else{
                     left=mid+1;
                 }
             }
-            else if(target<nums[mid]){
+            else if(nums[mid]>target){
                 right=mid-1;
             }
             else{
