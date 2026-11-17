@@ -20,7 +20,7 @@ class Solution {
                 break;
             }
         }
-        reverse(nums,index+1,n-1);
+        reverse(nums, index+1, n-1);
     }
     private void reverse(int[] nums, int left, int right){
         while(left<right){
