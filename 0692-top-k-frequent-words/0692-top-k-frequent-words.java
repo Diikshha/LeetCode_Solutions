@@ -1,7 +1,7 @@
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         HashMap<String, Integer> map = new HashMap<>();
-        for(String word: words){
+        for(String word:words){
             map.put(word, map.getOrDefault(word,0)+1);
         }
         PriorityQueue<String> pq = new PriorityQueue<>((a,b)->{
@@ -11,10 +11,10 @@ class Solution {
             return map.get(b)-map.get(a);
         });
         pq.addAll(map.keySet());
-        List<String> result = new ArrayList<>();
+        List<String> res = new ArrayList<>();
         for(int i=0;i<k;i++){
-            result.add(pq.poll());
+            res.add(pq.poll());
         }
-        return result;
+        return res;
     }
 }
