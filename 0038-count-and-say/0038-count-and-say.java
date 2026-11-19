@@ -1,8 +1,8 @@
 class Solution {
     public String countAndSay(int n) {
-        String result="1";
+        String result = "1";
         for(int i=2;i<=n;i++){
-            StringBuilder sb  = new StringBuilder();
+            StringBuilder sb = new StringBuilder();
             int j=0;
             while(j<result.length()){
                 char ch = result.charAt(j);
