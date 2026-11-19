@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
@@ -487,4 +491,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
