@@ -24,8 +24,8 @@ class Solution {
         return true;
     }
     private boolean isValid(char[][] board, int row, int col, char ch){
-        for(int j=0;j<9;j++){
-            if(board[row][j]==ch){
+        for(int i=0;i<9;i++){
+            if(board[row][i]==ch){
                 return false;
             }
         }
