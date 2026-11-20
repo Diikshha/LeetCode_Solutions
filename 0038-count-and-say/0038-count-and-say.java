@@ -5,8 +5,8 @@ class Solution {
             StringBuilder sb = new StringBuilder();
             int j=0;
             while(j<result.length()){
-                char ch = result.charAt(j);
                 int count=0;
+                char ch = result.charAt(j);
                 while(j<result.length() && result.charAt(j)==ch){
                     count++;
                     j++;
