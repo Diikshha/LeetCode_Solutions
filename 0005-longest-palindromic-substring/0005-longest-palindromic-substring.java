@@ -11,7 +11,7 @@ class Solution {
                 start = i-(len-1)/2;
             }
         }
-        return s.substring(start,start+maxLen);
+        return s.substring(start, start+maxLen);
     }
     private int expand(String s, int left, int right){
         while(left>=0 && right<=s.length()-1 && s.charAt(left)==s.charAt(right)){
