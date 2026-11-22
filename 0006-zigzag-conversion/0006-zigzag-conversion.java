@@ -15,7 +15,7 @@ class Solution {
                 direction=1;
             }
             else if(currentRows==numRows-1){
-                direction =-1;
+                direction=-1;
             }
             currentRows+=direction;
         }
