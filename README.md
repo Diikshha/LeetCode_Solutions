@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0917-reverse-only-letters](https://github.com/Diikshha/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Diikshha/LeetCode_Solutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Diikshha/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3794-reverse-string-prefix](https://github.com/Diikshha/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
