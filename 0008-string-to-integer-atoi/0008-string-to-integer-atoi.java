@@ -6,7 +6,7 @@ class Solution {
         int INT_MIN = Integer.MIN_VALUE;
         int INT_MAX = Integer.MAX_VALUE;
         int i=0;
-        int n = s.length();
+        int n=s.length();
         while(i<n && s.charAt(i)==' '){
             i++;
         }
@@ -34,5 +34,5 @@ class Solution {
             i++;
         }
         return (int) (sign*res);
-    }   
+    }
 }
