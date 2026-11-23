@@ -3,11 +3,11 @@ class Solution {
         if(x<0){
             return false;
         }
-        int reverse=0;
         int temp=x;
+        int reverse=0;
         while(x!=0){
-            int digit=x%10;
-            if(reverse<Integer.MIN_VALUE || reverse>Integer.MAX_VALUE){
+            int digit = x%10;
+            if(reverse>Integer.MAX_VALUE || reverse<Integer.MIN_VALUE){
                 return false;
             }
             reverse=reverse*10+digit;
