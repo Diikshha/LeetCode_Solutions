@@ -32,6 +32,6 @@ class Solution {
         if(Math.abs(lh-rh)>1){
             return -1;
         }
-        return Math.max(lh,rh)+1;
+        return 1+Math.max(lh,rh);
     }
 }
