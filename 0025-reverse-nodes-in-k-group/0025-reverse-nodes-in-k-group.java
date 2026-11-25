@@ -11,15 +11,15 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode dummy = new ListNode(0);
+        ListNode groupPrev=dummy;
         dummy.next=head;
-        ListNode groupPrev = dummy;
         while(true){
             ListNode knode = findKNode(groupPrev, k);
             if(knode==null){
                 break;
             }
             ListNode groupNext = knode.next;
-            ListNode prev= groupNext;
+            ListNode prev = groupNext;
             ListNode curr = groupPrev.next;
             while(curr!=groupNext){
                 ListNode temp = curr.next;
@@ -28,13 +28,13 @@ class Solution {
                 curr=temp;
             }
             ListNode temp = groupPrev.next;
-            groupPrev.next = knode;
+            groupPrev.next=knode;
             groupPrev=temp;
         }
         return dummy.next;
     }
     private ListNode findKNode(ListNode curr, int k){
-        while(curr!=null && k>0){
+        while(k>0 && curr!=null){
             curr=curr.next;
             k--;
         }
